@@ -20,8 +20,18 @@ Version 0.0.0:
 - First version. Have not begun development.
 
 Version 0.1.0:
-- Drew a 2D hockey rink and made the computer draw it on the screen.
+- Drew a 2D hockey rink and made the computer draw
+it on the screen.
 
 Version 0.2.0:
 - Added a Puck.
-- Added the ability to look around the image using wasd.
+- Added the ability to look around the image using
+wasd.
+
+Version 0.3.0:
+- Added collision between the puck and the straight
+walls.
+
+Version 0.4.0:
+- The camera now follows the puck as it bounces 
+around.
