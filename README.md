@@ -21,3 +21,7 @@ Version 0.0.0:
 
 Version 0.1.0:
 - Drew a 2D hockey rink and made the computer draw it on the screen.
+
+Version 0.2.0:
+- Added a Puck.
+- Added the ability to look around the image using wasd.
