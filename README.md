@@ -18,3 +18,6 @@ the x in 0.0.x.
 
 Version 0.0.0:
 - First version. Have not begun development.
+
+Version 0.1.0:
+- Drew a 2D hockey rink and made the computer draw it on the screen.
