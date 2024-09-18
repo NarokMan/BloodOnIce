@@ -2,9 +2,9 @@ TITLE: BLOOD ON ICE
 
 DESCRIPTION: A hockey game. I think.
 
-STATUS: Beginning development.
+STATUS: In development.
 
-Date: 9/14/2024
+Date: 9/18/2024
 
 Creator(s): Narok, Anonymous
 
@@ -15,6 +15,8 @@ experience in some visible way add 1 to the x in
 0.x.0.
 - Bugfixes and extremely minor changes add 1 to
 the x in 0.0.x.
+
+Versions:
 
 Version 0.0.0:
 - First version. Have not begun development.
@@ -35,3 +37,9 @@ walls.
 Version 0.4.0:
 - The camera now follows the puck as it bounces 
 around.
+
+Version 0.5.0:
+- Adjusted the bounce physics.
+- Accelerated the camera movement.
+- The puck can be manipulated using the left mouse
+button now.
